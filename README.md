@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Karan</h1>
 
-- I’m currently studying a BTech in Artificial Intelligence
+- I’m currently a college senior, studying Artificial Intelligence
 
 - Reach out to me at karan11122003@gmail.com
 
