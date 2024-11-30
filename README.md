@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Karan</h1>
-- 👨‍💻 I’m currently studying **Artificial Intelligence**
+- 👨‍💻 I’m currently studying Artificial Intelligence
 
 - 📫 Reach out to me at **karan11122003@gmail.com**
 
