@@ -1,6 +1,4 @@
 <h1 align="left">Hi, I'm Karan</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanshah-11" alt="karanshah-11" /></a> </p>
-
 - 👨‍💻 I’m currently studying **Artificial Intelligence**
 
 - 📫 Reach out to me at **karan11122003@gmail.com**
